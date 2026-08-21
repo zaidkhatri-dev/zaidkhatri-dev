@@ -2,7 +2,7 @@
 <p align="center">Backend, Distributed Systems and Agentic AI</p>
 
 <br>
-<p>I write Typescript (2 years) and contribute to OSS using it. I sometimes share what I am learning here too!</p>
+<p>I write Typescript (2 years) and contribute to OSS using it. I sometimes share what I am learning too!</p>
 
 <h4>Notable Achievements</h4>
 <ul>
