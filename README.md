@@ -1,12 +1,18 @@
 <h3 align="center">Zaid Khatri</h3> 
-<p align="center">Backend and Distributed Systems</p>
+<p align="center">Backend, Distributed Systems and Agentic AI</p>
 
 <br>
-<p>I primarily work with Typescript and currently learning Go</p>
+<p>I write Typescript (2 years) and contribute to OSS using it. I sometimes share what I am learning here too!</p>
 
 <h4>Notable Achievements</h4>
 <ul>
   <li>FullStack Intern @Stealth (prev) - Single handedly built an entire HRMS from scratch</li>
+</ul>
+
+<h4>Currently Learning</h4>
+<ul>
+  <li>Distributed Systems - Docker</li>
+  <li>Agentic AI - LLM Internals</li>
 </ul>
 
 <h4>You can connect with me on</h4>
